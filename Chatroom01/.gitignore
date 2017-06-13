@@ -1,0 +1,16 @@
+/build/
+# Intellij #
+/.idea
+*.iml
+*.DS_Store
+
+
+# Maven shade settings
+dependency-reduced-pom.xml
+
+# Eclipse #
+.metadata
+local.properties
+.settings/
+.project
+.classpath
